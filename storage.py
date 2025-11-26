@@ -15,4 +15,4 @@ def carregar_dados(caminho_arquivo):
             return json.load(f)
     except json.JSONDecodeError:
         print(f"ERRO: Arquivo {caminho_arquivo} contém JSON inválido. Retornando lista vazia.")
-        return []
+        return [] 
