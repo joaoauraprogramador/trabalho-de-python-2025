@@ -1,0 +1,10 @@
+[
+    {
+        "id": "t_001",
+        "titulo": "Tarefa 1",
+        "projeto_id": "p_001",
+        "responsavel_id": "u_001",
+        "status": "andamento",
+        "prazo": "2026-01-15"
+    }
+]
