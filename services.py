@@ -401,4 +401,4 @@ def remover(y, usuarios, projetos, tarefas):
             print("\nOperação cancelada.")
             return False
             
-    return False
+    return False 
